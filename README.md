@@ -31,7 +31,7 @@
 
 ## 🌟 Featured Projects
 
-[![Educational Platform Microservices Platform](https://img.shields.io/badge/-Microservices_Platform-00ADD8)](https://github.com/eduardosirangelo/go-angular-educational-platform-microservices)  
+[![Educational Platform Microservices Platform](https://img.shields.io/badge/-Educational_Platform_Microservices_Platform-00ADD8)](https://github.com/eduardosirangelo/go-angular-educational-platform-microservices)  
 A scalable microservices architecture built with Go Lang, Apache Kafka, PostgreSQL, and Angular.  
 `Tech Stack`: Go • Kafka • PostgreSQL • Angular • Docker • Kubernetes  
 **Highlights:** Modular services, event-driven communication, real-time updates, and CI/CD pipelines for zero downtime deployments.
